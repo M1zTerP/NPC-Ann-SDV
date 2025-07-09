@@ -1,0 +1,28 @@
+{
+  "Name": "Ann House",
+  "Author": "Asnise",
+  "Version": "1.1.1",
+  "UpdateKeys": [""],
+  "Description": "Ann House",
+  "UniqueID": "Asnise.house.AnnHouse",
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher"
+  },
+  "Dependencies":[
+        {
+            "UniqueID": "FlashShifter.StardewValleyExpandedCP",
+            "IsRequired": false
+        },
+		{
+            "UniqueID": "flashshifter.GrandpasFarm",
+            "IsRequired": false
+        },
+		{
+            "UniqueID": "Rafseazz.RSVCP",
+            "IsRequired": false
+        }
+    ]
+  
+}
+
+

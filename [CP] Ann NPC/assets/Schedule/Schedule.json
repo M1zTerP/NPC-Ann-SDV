@@ -1,0 +1,15 @@
+{
+  "spring": "610 Custom_AnnHouse 10 12 3 /630 Custom_AnnHouse 21 12 0 ann_dishes /650 Custom_AnnHouse 12 9 0 /710 Town 32 88 0 ann_read /1100 Town 41 58 0 \"Strings\\schedules\\Ann:summer.000\"/1130 SeedShop 2 21 1 \"Strings\\schedules\\Ann:summer.001\"/1200 ArchaeologyHouse 11 10 0 ann_read \"Strings\\schedules\\Ann:summer.002\"/1830 Custom_AnnHouse 10 12 1 ann_sleep ",
+  "marriage_Mon": "GOTO spring",
+  "summer": "GOTO Mon",
+  "fall": "GOTO spring",
+  "winter": "GOTO spring",
+  "winter_15": "610 Custom_AnnHouse 10 12 3 /630 Custom_AnnHouse 21 12 0 ann_dishes//650 Custom_AnnHouse 12 9 0 /710 Town 32 88 0 ann_read /1100 Town 41 58 0 \"Strings\\schedules\\Ann:summer.000\"/1130 SeedShop 2 21 1 \"Strings\\schedules\\Ann:summer.001\"/1200 ArchaeologyHouse 11 10 0 ann_read \"Strings\\schedules\\Ann:summer.002\"/1600 Beach 14 39 1 \"Strings\\schedules\\Ann:winter.015\"/2350 Custom_AnnHouse 10 12 1 ann_sleep",
+  "rain": "610 Custom_AnnHouse 10 12 3 /630 Custom_AnnHouse 21 12 0 ann_dishes \"Strings\\schedules\\Ann:rain.000\"/650 Custom_AnnHouse 20 6 2 ann_drink_coffee \"Strings\\schedules\\Ann:rain.001\"/720 Custom_AnnHouse 8 9 2 ann_read \"Strings\\schedules\\Ann:rain.000\"/900 Custom_AnnHouse 10 12 3 /1830 Custom_AnnHouse 10 12 1 ann_sleep ",
+  "rain2": "610 Custom_AnnHouse 10 12 3 /630 Custom_AnnHouse 21 12 0 ann_dishes \"Strings\\schedules\\Ann:rain.000\"/650 Custom_AnnHouse 20 6 2 ann_drink_coffee \"Strings\\schedules\\Ann:rain.001\"/740 Custom_AnnHouse 6 9 0 \"Strings\\schedules\\Ann:rain.002\"/900 Custom_AnnHouse 8 9 2 ann_read /1200 Custom_AnnHouse 10 12 3 /1830 Custom_AnnHouse 10 12 1 ann_sleep ",
+  "Mon": "610 Custom_AnnHouse 10 12 3 /630 Custom_AnnHouse 21 12 0 ann_dishes /650 Town 30 56 0 ann_read /900 SeedShop 2 21 1 \"Strings\\schedules\\Ann:summer.001\"/1100 ArchaeologyHouse 11 10 0 ann_read \"Strings\\schedules\\Ann:summer.002\"/1830 Custom_AnnHouse 10 12 1 ann_sleep ",
+  "Wed": "610 Custom_AnnHouse 10 12 3 /630 Custom_AnnHouse 21 12 0 ann_dishes /650 Town 32 88 0 ann_read /900 Town 17 63 0 ann_sit_down \"Strings\\schedules\\Ann:summer.001\"/1200 ArchaeologyHouse 13 9 0 ann_read \"Strings\\schedules\\Ann:summer.002\"/1800 Custom_AnnHouse 10 12 1 ann_sleep ",
+  "9_6": "GOTO spring",
+  "23_6": "GOTO spring"
+}
+

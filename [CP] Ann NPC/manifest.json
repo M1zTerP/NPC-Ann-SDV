@@ -1,0 +1,11 @@
+{
+  "Name": "Ann In Stardew",
+  "Author": "Asnise",
+  "Version": "1.4.1",
+  "UpdateKeys": ["GitHub:asnise/NPC-Ann-SDV"],
+  "Description": "Ann in StardewValley.",
+  "UniqueID": "Asnise.AnnInStardew",
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher"
+  }
+}

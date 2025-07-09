@@ -1,0 +1,11 @@
+{
+  "Name": "Ann Festival Locations",
+  "Author": "Asnise",
+  "Version": "1.1.1",
+  "UpdateKeys": [""],
+  "Description": "Ann Festival Locations",
+  "UniqueID": "Asnise.AnnFestival",
+  "ContentPackFor": {
+    "UniqueID": "Platonymous.TMXLoader"
+  }
+}

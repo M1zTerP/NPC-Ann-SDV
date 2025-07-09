@@ -1,0 +1,11 @@
+{
+  "Name": "Ann Spouse Room",
+  "Author": "Asnise",
+  "Version": "1.1.1",
+  "Description": "Ann SpouseRoom",
+  "UniqueID": "Asnise.SpouseRoom.AnnSpouseRoom",
+  "UpdateKeys": [""],
+  "ContentPackFor": {
+    "UniqueID": "Platonymous.TMXLoader"
+  }
+}

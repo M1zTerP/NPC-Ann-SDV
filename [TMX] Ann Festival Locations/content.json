@@ -1,0 +1,76 @@
+{
+	"festivalSpots": [
+
+				{
+			"name": "Ann",
+			"map": "Egg-Festival",
+			"position": [
+				26,
+				38
+			],
+			"direction": 2
+		},{
+			"name": "Ann",
+			"map": "Forest-FlowerFestival",
+			"position": [
+				26,
+				38
+			],
+			"direction": 2
+		},
+		{
+			"name": "Ann",
+			"map": "Town-Halloween",
+			"position": [
+				31,
+				65
+			],
+			"direction": 1
+		},
+		{
+			"name": "Ann",
+			"map": "Beach-Luau",
+			"position": [
+				25,
+				14
+			],
+			"direction": 2
+		},
+		{
+			"name": "Ann",
+			"map": "Beach-Jellies",
+			"position": [
+				32,
+				34
+			],
+			"direction": 2
+		},
+		{
+			"name": "Ann",
+			"map": "Town-Fair",
+			"position": [
+				26,
+				78
+			],
+			"direction": 3
+		},
+		{
+			"name": "Ann",
+			"map": "Forest-IceFestival",
+			"position": [
+				72,
+				22
+			],
+			"direction": 2
+		},
+		{
+			"name": "Ann",
+			"map": "Town-Christmas",
+			"position": [
+				24,
+				74
+			],
+			"direction": 0
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"Format": "1.24.0",
+	"CustomLocations": [
+		{
+			"Name": "Custom_AnnHouse",
+			"FromMapFile": "assets/AnnHouse.tmx"
+		}
+	],
+	"Changes": [
+		{
+			"LogName": "AnnHouseExterior",
+			"Action": "EditMap",
+			"PatchMode": "Replace",
+			"Target": "Maps/BusStop",
+			"FromFile": "assets/AnnHouseExterior.tmx",
+			"FromArea":
+			{ 
+				"X": 0, 
+				"Y": 0,
+				"Width": 9,
+				"Height": 7
+			},
+			"ToArea":
+			{ 
+				"X": 6, 
+				"Y": 13,
+				"Width": 9,
+				"Height": 7
+			},
+		}
+	]
+}
